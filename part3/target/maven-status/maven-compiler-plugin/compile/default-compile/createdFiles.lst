@@ -1,0 +1,9 @@
+MutexDFT.class
+SequentialDFT.class
+DFT1D.class
+Main.class
+DFT2D.class
+DFTPerformer.class
+Complex.class
+NonMutexDFT.class
+DFTStrategy.class

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.company.bestdsever","l":"BestDSEver"},{"p":"com.company.bestdsever","l":"BestDSEverImpl"},{"p":"com.company","l":"Main"},{"p":"com.company.bestdsever","l":"ThreadSafeBestDSEver"}]

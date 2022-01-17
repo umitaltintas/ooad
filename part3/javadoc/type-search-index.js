@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Complex"},{"p":"<Unnamed>","l":"DFT1D"},{"p":"<Unnamed>","l":"DFT2D"},{"p":"<Unnamed>","l":"DFTPerformer"},{"p":"<Unnamed>","l":"DFTStrategy"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"MutexDFT"},{"p":"<Unnamed>","l":"NonMutexDFT"},{"p":"<Unnamed>","l":"SequentialDFT"}]
